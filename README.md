@@ -1,3 +1,3 @@
-# Keeper App
+# Keeper App(Google Keeper clone)
 
-An Application used to store notes, kinda cloned Google Keeper application, built with React, JSX, CSS.
+An Application used to store notes, built with React, JSX, CSS.
