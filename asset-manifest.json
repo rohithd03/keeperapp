@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/keeperapp/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/keeperapp/static/js/main.a7352e3e.chunk.js",
-    "main.js.map": "/keeperapp/static/js/main.a7352e3e.chunk.js.map",
+    "main.js": "/keeperapp/static/js/main.d611a158.chunk.js",
+    "main.js.map": "/keeperapp/static/js/main.d611a158.chunk.js.map",
     "runtime-main.js": "/keeperapp/static/js/runtime-main.9109d106.js",
     "runtime-main.js.map": "/keeperapp/static/js/runtime-main.9109d106.js.map",
     "static/js/2.74938e75.chunk.js": "/keeperapp/static/js/2.74938e75.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9109d106.js",
     "static/js/2.74938e75.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.a7352e3e.chunk.js"
+    "static/js/main.d611a158.chunk.js"
   ]
 }
